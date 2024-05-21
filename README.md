@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/manidixit51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manidixit51" height="30" width="40" /></a>
 <a href="https://instagram.com/maniidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maniidixit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manidixit512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manidixit512" height="30" width="40" /></a>
+<h3 align="left">Visit my website here:</h3> 
  <a href="https://manidixit-portfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/manidixit51/Portfolio/blob/main/src/Assets/logo.png" alt="manidixit512" height="30" width="40" /></a>
 
 </p>
