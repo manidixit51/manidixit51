@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+![image_processing20210722-25951-90hfg0](https://github.com/manidixit51/manidixit51/assets/133573718/200eb441-bbb6-4bb4-a92d-01bf7d8fb40b)
+
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
