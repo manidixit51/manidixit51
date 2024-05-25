@@ -1,4 +1,4 @@
-![image_processing20210722-25951-90hfg0](https://github.com/manidixit51/manidixit51/assets/133573718/200eb441-bbb6-4bb4-a92d-01bf7d8fb40b).
+![image_processing20210722-25951-90hfg0](https://github.com/manidixit51/manidixit51/assets/133573718/200eb441-bbb6-4bb4-a92d-01bf7d8fb40b)
 
 <h1 align="center">Hi, I'm Mani Dixit 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
