@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/manidixit51/manidixit51/assets/133573718/8c3837a8-2c52-4068-9cff-cfa97ec122a1"/> </p>
 
 <h1 align="center">Hi, I'm Mani Dixit 👋</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Passionate about technology and innovation, an aspiring software developer 👩‍💻 dedicated to mastering the art of coding and problem-solving. With a strong foundation in competitive programming 🏆, tackling complex algorithms and enhancing proficiency in various programming languages is a core focus. Experience as a graphic designer 🎨 allows blending creativity with technical skills, crafting user-centric and aesthetically pleasing interfaces.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manidixit51&label=Profile%20views&color=0e75b6&style=flat" alt="manidixit51" /> </p>
 
